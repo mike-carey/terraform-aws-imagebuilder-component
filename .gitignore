@@ -1,0 +1,26 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .auto.tfvars files
+*.auto.tfvars
+
+# `terraform plan` output files
+*.plan
+
+# macOS files
+.DS_Store
+
+# text editors
+*.swp
+
+# Backup files
+*.bak
+
+# Keys
+*.key
+*.pem
+*.p12
